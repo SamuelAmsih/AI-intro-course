@@ -640,6 +640,7 @@ Run:
 
 ```python
 import sys
+
 print(sys.executable)
 ```
 
@@ -659,6 +660,7 @@ Check the selected interpreter:
 
 ```python
 import sys
+
 print(sys.executable)
 ```
 
